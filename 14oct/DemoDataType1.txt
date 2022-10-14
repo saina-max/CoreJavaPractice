@@ -1,0 +1,13 @@
+
+class DemoDataType1
+{
+ public static void main(string args{})
+ {
+ int number1=7;
+ int number2=7;
+ int sum=number1+number2;
+ system.out.println("the sum is :"+sum);
+ }
+ }
+ 
+ 
